@@ -1,0 +1,15 @@
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\obj\Debug\net6.0\Potluck.csproj.AssemblyReference.cache
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\obj\Debug\net6.0\Potluck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\obj\Debug\net6.0\Potluck.AssemblyInfoInputs.cache
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\obj\Debug\net6.0\Potluck.AssemblyInfo.cs
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\obj\Debug\net6.0\Potluck.csproj.CoreCompileInputs.cache
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\bin\Debug\net6.0\Potluck.exe
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\bin\Debug\net6.0\Potluck.deps.json
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\bin\Debug\net6.0\Potluck.runtimeconfig.json
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\bin\Debug\net6.0\Potluck.dll
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\bin\Debug\net6.0\Potluck.pdb
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\obj\Debug\net6.0\Potluck.dll
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\obj\Debug\net6.0\refint\Potluck.dll
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\obj\Debug\net6.0\Potluck.pdb
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\obj\Debug\net6.0\Potluck.genruntimeconfig.cache
+C:\Users\plati\Desktop\Turing\1mod\my_stuff\ics\Potluck\Potluck\obj\Debug\net6.0\ref\Potluck.dll
